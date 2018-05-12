@@ -1,0 +1,38 @@
+_repo: Aus-Kroatien--Skizzen-und-Erz-hlungen_15734
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Achleitner, Arthur
+    alias: Achleitner, A. (Arthur)
+    birthdate: 1858
+    deathdate: 1927
+    gutenberg_agent_id: '5300'
+    url: http://www.gutenberg.org/2009/agents/5300
+    wikipedia:
+    - http://de.wikipedia.org/wiki/Arthur_Achleitner
+    - http://en.wikipedia.org/wiki/Arthur_Achleitner
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2005-04-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15734'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DR'
+- !lcc 'PT'
+- !lcsh 'Balkan Peninsula -- Fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Balkan Peninsula -- Description and travel'
+tableOfContents: "Zum Geleit\r\nDrei Regimentsbefehle\r\nDes Popen Meisterstück\r\n\
+  Waldkultur\r\nKroatische Glanzkohlen\r\nAuf Forstinspektion\r\nFeuerstein und Schwefelfaden\r\
+  \nSprachliches Durcheinander\r\nVon der Sann zur Korana\r\nEine Wahl ohne Ochsen,\
+  \ ohne Wein\r\nDie tausendjährige Linde"
+title: 'Aus Kroatien: Skizzen und Erzählungen'
+url: http://www.gutenberg.org/ebooks/15734
